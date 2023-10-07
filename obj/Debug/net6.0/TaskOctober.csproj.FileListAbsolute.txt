@@ -1,0 +1,15 @@
+/Users/safiyevelnur/Desktop/TaskOctober/obj/Debug/net6.0/TaskOctober.csproj.AssemblyReference.cache
+/Users/safiyevelnur/Desktop/TaskOctober/obj/Debug/net6.0/TaskOctober.GeneratedMSBuildEditorConfig.editorconfig
+/Users/safiyevelnur/Desktop/TaskOctober/obj/Debug/net6.0/TaskOctober.AssemblyInfoInputs.cache
+/Users/safiyevelnur/Desktop/TaskOctober/obj/Debug/net6.0/TaskOctober.AssemblyInfo.cs
+/Users/safiyevelnur/Desktop/TaskOctober/obj/Debug/net6.0/TaskOctober.csproj.CoreCompileInputs.cache
+/Users/safiyevelnur/Desktop/TaskOctober/bin/Debug/net6.0/TaskOctober
+/Users/safiyevelnur/Desktop/TaskOctober/bin/Debug/net6.0/TaskOctober.deps.json
+/Users/safiyevelnur/Desktop/TaskOctober/bin/Debug/net6.0/TaskOctober.runtimeconfig.json
+/Users/safiyevelnur/Desktop/TaskOctober/bin/Debug/net6.0/TaskOctober.dll
+/Users/safiyevelnur/Desktop/TaskOctober/bin/Debug/net6.0/TaskOctober.pdb
+/Users/safiyevelnur/Desktop/TaskOctober/obj/Debug/net6.0/TaskOctober.dll
+/Users/safiyevelnur/Desktop/TaskOctober/obj/Debug/net6.0/refint/TaskOctober.dll
+/Users/safiyevelnur/Desktop/TaskOctober/obj/Debug/net6.0/TaskOctober.pdb
+/Users/safiyevelnur/Desktop/TaskOctober/obj/Debug/net6.0/TaskOctober.genruntimeconfig.cache
+/Users/safiyevelnur/Desktop/TaskOctober/obj/Debug/net6.0/ref/TaskOctober.dll
